@@ -19,11 +19,11 @@
 ### App Walkthough GIF
 
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="flix walkthrough2.gif" width=250><br>
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+I had challenges implemented the strech goals especially the auto play trailer story.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
